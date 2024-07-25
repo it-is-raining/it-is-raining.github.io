@@ -1,1 +1,1 @@
-
+After trying to use ProPublica's API (didn't give me granular details on any of the schedules e.g. Schedule H) and trying to use IRSx (currently not working), I scraped ProPublica's Non-profit Explorer filings with BeautifulSoup.
